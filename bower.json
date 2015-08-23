@@ -26,9 +26,6 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "1.8.3"
+    "jquery": ">=1.8.3"
   },
-  "resolutions": {
-    "jquery": "1.8.3"
-  }
 }
