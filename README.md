@@ -1,3 +1,8 @@
+DEPRECATED
+==========
+
+This package is no longer maintained. It was a copy of greenhouse tilesgallery that was not available in bower, ported to bower in this repository. As the original source is no longer available, this package is also no longer maintained.
+
 INSTALLATION
 ============
 
